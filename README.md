@@ -4,7 +4,7 @@ DigiComm is an E-commerce platform designed for college students to share their 
 
 ## Live Demonstration
 
-The DigiComm platform can be [viewed online here](https://pccoe-mart.netlify.app/).
+The DigiComm platform can be [viewed online here](https://digi-comm.netlify.app/).
 
 Here are screenshots that show the E-commerce demo application in use.
 
@@ -33,7 +33,7 @@ To get started you can simply clone this `ecommerce-demo` repository and install
 Clone the `ecommerce-demo` repository using git:
 
 ```bash
-git clone https://github.com/Ghanshyam444/PCCOE-mart.git
+git clone https://github.com/Ghanshyam444/Digicomm.git
 cd Digicomm
 ```
 
